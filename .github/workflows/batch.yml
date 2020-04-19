@@ -2,7 +2,7 @@ name: Run batch Test
 
 on:
   push:
-    branches: [ master ]
+    branches: [ feature/test-actions ]
   schedule:
     - cron: 0 0,12 * * *
 
