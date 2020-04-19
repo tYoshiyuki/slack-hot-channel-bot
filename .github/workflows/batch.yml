@@ -1,4 +1,4 @@
-name: Run batch Test
+name: Run batch
 
 on:
   push:
